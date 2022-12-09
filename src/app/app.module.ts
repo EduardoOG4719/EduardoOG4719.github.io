@@ -10,7 +10,6 @@ import { EducationComponent } from './education/education.component';
   declarations: [
     AppComponent,
     HeaderComponent,
-    WorkExperienceComponent,
     EducationComponent
   ],
   imports: [
